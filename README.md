@@ -18,4 +18,6 @@ Big-O gösterimini yazınız.
              
                          [11,16,21]                                                                           [8,12,22]                        // diğer grup ile birleşerek sıralanır 
                          
-                                                              [8,11,12,16,21,22]                                                               # son sıralama oluşur
+                                                              [8,11,12,16,21,22]                                                               // son sıralama oluşur
+
+# Big O gösterimi(nlogn)
