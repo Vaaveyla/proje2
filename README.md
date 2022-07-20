@@ -21,3 +21,4 @@ Big-O gösterimini yazınız.
                                                               [8,11,12,16,21,22]                                                               // son sıralama oluşur
 
 # Big O gösterimi(nlogn)
+https://app.patika.dev/vav
